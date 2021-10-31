@@ -21,16 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7b1d1c7c-7488-4142-b7f6-4e3af4524e22" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/ClaireMaskedEmission.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/ClaireMaskedEmission.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ColorAdd.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ColorAdd.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/ClaireBodyGlow.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/ClaireBodyGlow.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Claire/Textures/Girl01_FacialAnimMap.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/Claire/Textures/Girl01_FacialAnimMap.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Claire.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Claire.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +51,10 @@
         <option value="$PROJECT_DIR$/Assets/Shaders/MaskedEmission.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Standart 1.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/BasicSnow.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Rim.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/ToonShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/ToonCutout.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Dissolve.shader" />
       </list>
     </option>
   </component>
@@ -101,7 +99,10 @@
       <updated>1634375536556</updated>
       <workItem from="1634375542575" duration="4774000" />
       <workItem from="1634981561216" duration="471000" />
-      <workItem from="1634982045877" duration="5522000" />
+      <workItem from="1634982045877" duration="6158000" />
+      <workItem from="1635607628544" duration="3048000" />
+      <workItem from="1635637033630" duration="3679000" />
+      <workItem from="1635705900545" duration="2487000" />
     </task>
     <servers />
   </component>

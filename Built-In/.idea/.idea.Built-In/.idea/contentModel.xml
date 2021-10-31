@@ -18,10 +18,14 @@
         </e>
         <e p="Shaders" t="Include">
           <e p="BasicSnow.shader" t="Include" />
+          <e p="Dissolve.shader" t="Include" />
           <e p="Lerp.shader" t="Include" />
           <e p="MaskedEmission.shader" t="Include" />
           <e p="NormalBlend.shader" t="Include" />
+          <e p="Rim.shader" t="Include" />
           <e p="Standart.shader" t="Include" />
+          <e p="ToonCutout.shader" t="Include" />
+          <e p="ToonShader.shader" t="Include" />
         </e>
       </e>
       <e p="Built-In.sln" t="IncludeFlat" />

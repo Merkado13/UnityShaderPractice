@@ -7,13 +7,13 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ClaireBodyGlow
-  m_Shader: {fileID: 4800000, guid: 088bf6c34bb6abc4d9041e7f25b3883f, type: 3}
+  m_Name: ClaireDissolve
+  m_Shader: {fileID: 4800000, guid: 3bf151255cc251d43865c5cfca74b25c, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 3000
   stringTagMap: {}
   disabledShaderPasses: []
   m_SavedProperties:
@@ -21,6 +21,10 @@ Material:
     m_TexEnvs:
     - _BumpMap:
         m_Texture: {fileID: 2800000, guid: cbf8c0c8fce66d741b03a7f0a536a3ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveTex:
+        m_Texture: {fileID: 2800000, guid: 1a9f7f8b34a0c5c499cf50a307293221, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -32,8 +36,20 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _Cutoff: 0.437
+    - _DissolveAmount: 0.252
+    - _DissolveLine: 0.07
+    - _DissolveScale: 5
     - _NormalStrength: 1
+    - _RimPower: 0.99
+    - _RimSmooth: 1
+    - _ShadowSmooth: 0.594
+    - _Tresh: 2
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0.059006754, g: 0.14228326, b: 0.24528301, a: 1}
+    - _DissolveColor: {r: 1, g: 1, b: 1, a: 1}
+    - _DissolveLineColor: {r: 0.2216981, g: 0.82032365, b: 1, a: 1}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 0.47843137, b: 1, a: 1}
+    - _ShadowColor: {r: 0.14408366, g: 0.011764723, b: 0.9254902, a: 1}
   m_BuildTextureStacks: []
