@@ -17,15 +17,28 @@
           <e p="TEst.cs" t="Include" />
         </e>
         <e p="Shaders" t="Include">
-          <e p="BasicSnow.shader" t="Include" />
-          <e p="Dissolve.shader" t="Include" />
-          <e p="Lerp.shader" t="Include" />
-          <e p="MaskedEmission.shader" t="Include" />
-          <e p="NormalBlend.shader" t="Include" />
-          <e p="Rim.shader" t="Include" />
-          <e p="Standart.shader" t="Include" />
-          <e p="ToonCutout.shader" t="Include" />
-          <e p="ToonShader.shader" t="Include" />
+          <e p="Lib" t="Include">
+            <e p="ShaderCommon.cginc" t="Include" />
+          </e>
+          <e p="Standart" t="Include">
+            <e p="BasicSnow.shader" t="Include" />
+            <e p="Dissolve.shader" t="Include" />
+            <e p="Lerp.shader" t="Include" />
+            <e p="MaskedEmission.shader" t="Include" />
+            <e p="NormalBlend.shader" t="Include" />
+            <e p="Rim.shader" t="Include" />
+            <e p="Standart.shader" t="Include" />
+            <e p="ViewBlend.shader" t="Include" />
+          </e>
+          <e p="Toon" t="Include">
+            <e p="ToonCutout.shader" t="Include" />
+            <e p="ToonShader.shader" t="Include" />
+            <e p="ToonShaderOutline.shader" t="Include" />
+            <e p="ToonShaderSpecular.shader" t="Include" />
+          </e>
+          <e p="Unlit" t="Include">
+            <e p="SpriteColorMask.shader" t="Include" />
+          </e>
         </e>
       </e>
       <e p="Built-In.sln" t="IncludeFlat" />
