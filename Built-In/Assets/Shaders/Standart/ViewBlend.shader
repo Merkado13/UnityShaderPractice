@@ -52,9 +52,8 @@ Shader "Custom/ViewBlend"
         void surf (Input IN, inout SurfaceOutputStandard o)
         {
             o.Albedo = tex2D(_MainTex, IN.uv_MainTex).rgb * _Color;            
-            //o.Normal = (tex2D(_BumpMap, IN.uv_MainTex));
-            //o.Normal.z *= _NormalStrength;
-            o.Normal = (0,0,1);
+            o.Normal = (tex2D(_BumpMap, IN.uv_MainTex));
+            o.Normal.z *= _NormalStrength;
 
             /*half d = 1 - pow(dot(o.Normal, IN.viewDir), _RimPower);
             o.Emission = _EmissionColor * tex2D(_EmissionMap, IN.uv_MainTex);

@@ -23,26 +23,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Claire.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Claire.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/BasicSnow.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/BasicSnow.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Dissolve.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Lerp.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Lerp.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/MaskedEmission.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/MaskedEmission.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/NormalBlend.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/NormalBlend.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Rim.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Rim.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Standart.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Standart.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ToonCutout.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ToonCutout.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ToonShader.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/ToonShader.shader.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Standart/ViewBlend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Standart/ViewBlend.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +35,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Child.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Standart/Editor/UtilShaderGUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -76,7 +59,14 @@
         <option value="$PROJECT_DIR$/Assets/Shaders/ToonShaderOutline.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Unlit/SpriteColorMask.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Toon/ToonShaderOutline.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Child.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Parent.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Standart/ViewBlend.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/UI/UIScroll.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Standart/Editor/StandartEdtor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Standart/StandartPBR.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Standart/Editor/UtilShaderGUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Standart/Editor/StandartEditor.cs" />
       </list>
     </option>
   </component>
@@ -129,6 +119,11 @@
       <workItem from="1636817909958" duration="4854000" />
       <workItem from="1637407744413" duration="4568000" />
       <workItem from="1637414324470" duration="6475000" />
+      <workItem from="1637602645272" duration="587000" />
+      <workItem from="1637603946943" duration="238000" />
+      <workItem from="1638037267841" duration="2285000" />
+      <workItem from="1638654150442" duration="4516000" />
+      <workItem from="1639257745947" duration="3678000" />
     </task>
     <servers />
   </component>
@@ -153,9 +148,10 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1635708329006">
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1638657531996">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1635708329006" />
+    <state x="-1328" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1638654943901" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1638657531996" />
   </component>
 </project>
