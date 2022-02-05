@@ -22,8 +22,12 @@
     <list default="true" id="7b1d1c7c-7488-4142-b7f6-4e3af4524e22" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Built-In/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BJ MokaPot/Materials/MokaPotDirt.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BJ MokaPot/Materials/MokaPotDirt.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/ClaireBodyToonOutline.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/ClaireBodyToonOutline.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/Girl01_Body_MAT1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Meshes/Claire/Materials/Girl01_Body_MAT1.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Claire.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Claire.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Standart/ViewBlend.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Standart/ViewBlend.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Standart/Dissolve.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Standart/Dissolve.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +39,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/CGIncludes/HLSLSupport.cginc" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Child.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Shaders/Standart/Editor/UtilShaderGUI.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Test.cs" root0="FORCE_HIGHLIGHTING" />
@@ -64,9 +69,14 @@
         <option value="$PROJECT_DIR$/Assets/Shaders/Standart/ViewBlend.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/UI/UIScroll.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Standart/Editor/StandartEdtor.cs" />
-        <option value="$PROJECT_DIR$/Assets/Shaders/Standart/StandartPBR.shader" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Standart/Editor/UtilShaderGUI.cs" />
         <option value="$PROJECT_DIR$/Assets/Shaders/Standart/Editor/StandartEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Standart/StandartPBR.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/PostEffects/ColorSplit.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/PostEffects/ColorSplit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Skybox/GradientSkybox.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Parallax/BasicParallax.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Special/Glass.shader" />
       </list>
     </option>
   </component>
@@ -123,7 +133,13 @@
       <workItem from="1637603946943" duration="238000" />
       <workItem from="1638037267841" duration="2285000" />
       <workItem from="1638654150442" duration="4516000" />
-      <workItem from="1639257745947" duration="3678000" />
+      <workItem from="1639257745947" duration="4475000" />
+      <workItem from="1639912245320" duration="1708000" />
+      <workItem from="1640520522681" duration="3013000" />
+      <workItem from="1641062251755" duration="4183000" />
+      <workItem from="1641681236678" duration="1690000" />
+      <workItem from="1643479972825" duration="2463000" />
+      <workItem from="1643488686547" duration="49000" />
     </task>
     <servers />
   </component>
@@ -148,10 +164,11 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1638657531996">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state x="2512" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1641681650092">
+      <screen x="1920" y="7" width="1858" height="1080" />
     </state>
     <state x="-1328" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@-1920.0.1858.1080" timestamp="1638654943901" />
     <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/-1920.0.1858.1080@0.0.1858.1080" timestamp="1638657531996" />
+    <state x="2512" y="242" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080/1920.7.1858.1080@1920.7.1858.1080" timestamp="1641681650092" />
   </component>
 </project>

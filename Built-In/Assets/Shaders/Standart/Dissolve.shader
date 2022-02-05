@@ -21,6 +21,7 @@ Shader "Custom/Dissolve"
         _DissolveScale("Dissolve Scale", Float) = 1
         _DissolveLine("Dissolve Line", Range(0, 2)) = 0.1
         [HDR]_DissolveLineColor("Dissolve Line Color", Color) = (1, 1 ,1 ,1)
+
     }
     SubShader
     {

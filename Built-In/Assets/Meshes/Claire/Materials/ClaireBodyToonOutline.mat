@@ -41,7 +41,7 @@ Material:
     - _Gloss: 1.8
     - _GlossSmoothness: 1.12
     - _NormalStrength: 1
-    - _Outline: 0.0079
+    - _Outline: 0
     - _RimPower: 0.99
     - _RimSmooth: 1
     - _ShadowSmooth: 0.594

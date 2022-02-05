@@ -26,6 +26,19 @@
           <e p="Lib" t="Include">
             <e p="ShaderCommon.cginc" t="Include" />
           </e>
+          <e p="Parallax" t="Include">
+            <e p="BasicParallax.shader" t="Include" />
+          </e>
+          <e p="PostEffects" t="Include">
+            <e p="ColorSplit.cs" t="Include" />
+            <e p="ColorSplit.shader" t="Include" />
+          </e>
+          <e p="Skybox" t="Include">
+            <e p="GradientSkybox.shader" t="Include" />
+          </e>
+          <e p="Special" t="Include">
+            <e p="Glass.shader" t="Include" />
+          </e>
           <e p="Standart" t="Include">
             <e p="BasicSnow.shader" t="Include" />
             <e p="Dissolve.shader" t="Include" />
